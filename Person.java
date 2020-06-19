@@ -1,3 +1,4 @@
+//This My Addreess Book Project 
 public class Person{
 	public String firstName;
 	public String lastName;
@@ -32,7 +33,7 @@ public class Person{
 
 
 	public static void main(String[] args){
-		System.out.println("Welcome to Address Book");
+		System.out.println("Welcome To My Address");
 		String str = "ABC";
 		System.out.println(str.compareTo("DEF"));
 	}
